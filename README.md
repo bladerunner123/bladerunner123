@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bladerunner123
-- 👀 I’m interested in making offensive tooling.
+- 👀 I’m interested in making offensive tooling and red teaming.
 - 🌱 I’m currently learning C and Assembly.
 
 <!---
